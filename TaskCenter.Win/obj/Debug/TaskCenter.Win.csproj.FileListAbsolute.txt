@@ -1,0 +1,9 @@
+E:\代码学习\TaskCenter.Win\TaskCenter.Win\bin\Debug\TaskCenter.Win.exe.config
+E:\代码学习\TaskCenter.Win\TaskCenter.Win\bin\Debug\TaskCenter.Win.exe
+E:\代码学习\TaskCenter.Win\TaskCenter.Win\bin\Debug\TaskCenter.Win.pdb
+E:\代码学习\TaskCenter.Win\TaskCenter.Win\obj\Debug\TaskCenter.Win.csprojResolveAssemblyReference.cache
+E:\代码学习\TaskCenter.Win\TaskCenter.Win\obj\Debug\TaskCenter.Win.Form1.resources
+E:\代码学习\TaskCenter.Win\TaskCenter.Win\obj\Debug\TaskCenter.Win.Properties.Resources.resources
+E:\代码学习\TaskCenter.Win\TaskCenter.Win\obj\Debug\TaskCenter.Win.csproj.GenerateResource.Cache
+E:\代码学习\TaskCenter.Win\TaskCenter.Win\obj\Debug\TaskCenter.Win.exe
+E:\代码学习\TaskCenter.Win\TaskCenter.Win\obj\Debug\TaskCenter.Win.pdb

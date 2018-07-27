@@ -1,0 +1,5 @@
+E:\代码学习\TaskCenter.Win\TaskUtility\bin\Debug\TaskUtility.dll
+E:\代码学习\TaskCenter.Win\TaskUtility\bin\Debug\TaskUtility.pdb
+E:\代码学习\TaskCenter.Win\TaskUtility\obj\Debug\TaskUtility.csprojResolveAssemblyReference.cache
+E:\代码学习\TaskCenter.Win\TaskUtility\obj\Debug\TaskUtility.dll
+E:\代码学习\TaskCenter.Win\TaskUtility\obj\Debug\TaskUtility.pdb

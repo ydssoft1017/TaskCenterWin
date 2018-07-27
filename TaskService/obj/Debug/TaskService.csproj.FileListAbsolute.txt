@@ -1,0 +1,16 @@
+E:\代码学习\TaskCenter.Win\TaskService\bin\Debug\TaskService.dll
+E:\代码学习\TaskCenter.Win\TaskService\bin\Debug\TaskService.pdb
+E:\代码学习\TaskCenter.Win\TaskService\bin\Debug\Common.Logging.Core.dll
+E:\代码学习\TaskCenter.Win\TaskService\bin\Debug\Common.Logging.dll
+E:\代码学习\TaskCenter.Win\TaskService\bin\Debug\Quartz.dll
+E:\代码学习\TaskCenter.Win\TaskService\bin\Debug\TaskUtility.dll
+E:\代码学习\TaskCenter.Win\TaskService\bin\Debug\TaskUtility.pdb
+E:\代码学习\TaskCenter.Win\TaskService\bin\Debug\Common.Logging.pdb
+E:\代码学习\TaskCenter.Win\TaskService\bin\Debug\Common.Logging.xml
+E:\代码学习\TaskCenter.Win\TaskService\bin\Debug\Common.Logging.Core.pdb
+E:\代码学习\TaskCenter.Win\TaskService\bin\Debug\Common.Logging.Core.xml
+E:\代码学习\TaskCenter.Win\TaskService\bin\Debug\Quartz.pdb
+E:\代码学习\TaskCenter.Win\TaskService\bin\Debug\Quartz.xml
+E:\代码学习\TaskCenter.Win\TaskService\obj\Debug\TaskService.csprojResolveAssemblyReference.cache
+E:\代码学习\TaskCenter.Win\TaskService\obj\Debug\TaskService.dll
+E:\代码学习\TaskCenter.Win\TaskService\obj\Debug\TaskService.pdb
